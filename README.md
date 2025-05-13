@@ -1,10 +1,9 @@
 
 # Me:
 
-<p align='center'>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RainNight-PrincessHighness&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-</p>
 
 
 ## Tech Stack 

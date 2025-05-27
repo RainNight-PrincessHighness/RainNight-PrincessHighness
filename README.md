@@ -33,9 +33,9 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
+       <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" width="48" height="48" />
+        <br>Typescript
       </td>
       <td align="center" width="12.5%">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />

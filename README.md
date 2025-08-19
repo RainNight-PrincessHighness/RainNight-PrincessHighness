@@ -15,6 +15,10 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React
       </td>
+       <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" width="48" height="48" />
+        <br>Typescript
+      </td>
       <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
@@ -33,10 +37,7 @@
       </td>
     </tr>
     <tr>
-       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" width="48" height="48" />
-        <br>Typescript
-      </td>
+      
       <td align="center" width="12.5%">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
         <br>Git
@@ -61,7 +62,7 @@
         <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="48" height="48" />
         <br>CloudFlare
       </td>
-      <!-- Add more items if needed -->
+     
   </table>
 </div>
 

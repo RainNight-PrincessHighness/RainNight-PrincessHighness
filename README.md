@@ -36,8 +36,7 @@
         <br>C#
       </td>
     </tr>
-    <tr>
-      
+    <tr>      
       <td align="center" width="12.5%">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
         <br>Git

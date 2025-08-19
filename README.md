@@ -61,7 +61,30 @@
         <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="48" height="48" />
         <br>CloudFlare
       </td>
-     
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="48" height="48" />
+        <br>Docker
+      </td>
+       <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="48" height="48" />
+        <br>Flutter
+      </td>
+        <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="48" height="48" />
+        <br>Nginx
+      </td>
+        <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="48" height="48" />
+        <br>Postgres
+      </td>
+        <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="48" height="48" />
+        <br>Flutter
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="48" height="48"/>
+        <br>Swift
+      </td>
   </table>
 </div>
 

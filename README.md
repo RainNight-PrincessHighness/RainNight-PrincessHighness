@@ -53,6 +53,14 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
         <br>Node.js
       </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="48" height="48" />
+        <br>Electron
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="48" height="48" />
+        <br>CloudFlare
+      </td>
       <!-- Add more items if needed -->
   </table>
 </div>

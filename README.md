@@ -80,8 +80,8 @@
         <br>Postgres
       </td>
         <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="48" height="48" />
-        <br>Flutter
+        <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="48" height="48" />
+        <br>Obsidian
       </td>
       <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="48" height="48"/>
